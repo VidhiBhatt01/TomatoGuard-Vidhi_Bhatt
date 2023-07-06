@@ -6,7 +6,7 @@
 ## Training and building the model 
 3. Open Anaconda and run the Model Code.ipynb file present in the Code folder.
 
-## Setting up the Backend
+## 👉 Setting up the Backend
 4. Open the command prompt.
 5. Navigate to the backend folder of this project.
 6. Create a virtual env 
@@ -27,7 +27,7 @@ python main.py
 ```
 10. Use Postman to send a request to the server
 
-## Setting up the frontend
+## 👉 Setting up the frontend
 11. Install Nodejs ([Setup instructions](https://nodejs.org/en/download/package-manager/))
 12. Install NPM ([Setup instructions](https://www.npmjs.com/get-npm))
 13. After installation, open the PowerShell
