@@ -30,6 +30,7 @@ This dataset is a modified version/subset of the Plant Village Dataset available
 | 03 | Early Blight | 1000 |
 | 04 | Healthy | 1591 |
 | 05 | Late Blight | 1586 |
+| = | Total Images | 7354 |
 
 ## 👉 What's next for the project? 📈
 - Improving the model performance and accuracy. Even if the supplied image is not a plant leaf, the model still classifies it into one of the classes. A possible solution could be building a two-stage classification model where the first model classifies if an image is a tomato plant or not and then the second model will classify the actual disease.
