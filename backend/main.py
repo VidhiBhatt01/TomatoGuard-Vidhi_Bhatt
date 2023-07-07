@@ -22,11 +22,7 @@ app.add_middleware(
 
 MODEL = tf.keras.models.load_model("../saved_models/1")
 CLASS_NAMES = ["Bacterial Spot", "Early Blight", "Late Blight", "Target Spot", "Healthy"]
-#['Tomato_Bacterial_spot',
- #'Tomato_Early_blight',
- #'Tomato_Late_blight',
- #'Tomato__Target_Spot',
- #'Tomato_healthy']
+#['Tomato_Bacterial_spot','Tomato_Early_blight','Tomato_Late_blight','Tomato__Target_Spot','Tomato_healthy']
 
 
 @app.get("/ping")
